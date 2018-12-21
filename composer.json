@@ -8,6 +8,6 @@
             "email": "dana@lutherweb.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "require": {}
 }
