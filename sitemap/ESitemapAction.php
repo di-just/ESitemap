@@ -8,7 +8,7 @@
  * @package ESitemap
  */
 
-Yii::import('ext.sitemap.*');
+Yii::import('common.vendor.di-just.e-sitemap-yii.sitemap.*');
 /**
  * Render the sitemap in human readable format, this will be rendered within the
  * main site layout.

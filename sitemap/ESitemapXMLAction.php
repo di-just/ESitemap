@@ -7,7 +7,7 @@
  * @package ESitemap
  */
 
-Yii::import('ext.sitemap.*');
+Yii::import('common.vendor.di-just.e-sitemap-yii.sitemap.*');
 /**
  * Description of ESitemapXMLAction 
  *
