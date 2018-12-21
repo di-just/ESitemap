@@ -1,0 +1,13 @@
+{
+    "name": "di-just/e-sitemap-yii",
+    "description": "Generate a sitemap based on configurable Active Records",
+    "type": "extension",
+    "authors": [
+        {
+            "name": "Dana Luther",
+            "email": "dana@lutherweb.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
