@@ -1,7 +1,7 @@
 {
     "name": "di-just/e-sitemap-yii",
     "description": "Generate a sitemap based on configurable Active Records",
-    "type": "extension",
+    "type": "yii-extension",
     "authors": [
         {
             "name": "Dana Luther",
@@ -9,5 +9,8 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "php": ">=5.3.0",
+        "yiisoft/yii": "~1"
+    }
 }
